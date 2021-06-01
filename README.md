@@ -1,1 +1,1 @@
-# groupe5
+Vous allez travaillez sur la page d'actuallités, bêtement ajouter  les 3  blocs de blog qui sont dans la page d'accueil, ensuite créer une page pour chaque article , le premier article qui parle de l'inauguration, vous allez prendre le contenu sur  l'article rédiger par le quatrième pouvoir. Mais n'oublié pas de référencer, les deux autres articles seront pour le  moment des lorem ipsum au niveau des textes. Vous allez également modifier la carte  google au niveau du iframe qui est sur la page contact.
